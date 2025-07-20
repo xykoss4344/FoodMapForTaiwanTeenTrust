@@ -104,7 +104,7 @@ The application automatically detects touch devices and provides:
 
 ## License
 
-This project is for educational and demonstration purposes.
+This project is for educational and demonstration purposes and organization purposes
 
 ## Support
 
